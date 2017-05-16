@@ -1,0 +1,41 @@
+.navbar{
+    background: #1C2331;
+}
+
+#profileSection {
+    padding-top:50px;
+    height:400px;
+    color: #fff; 
+    background-color: #3F729B;
+}
+#projectSection {
+      height:600px;
+      color: #fff;
+      background-color: white;
+      color: #3F729B;
+}
+#skillsSection{
+     height:400px;
+      color: #fff;
+      background-color: white;
+      color: #3F729B;
+      padding-top:50px;
+}
+  #educationSection {
+     
+    height:400px;
+    color: #fff; 
+    background-color: #3F729B;
+    align-content: center;
+    
+}
+  #conactMeSection {
+     padding-top:50px;
+    height:200px;
+    color: #fff; 
+    background-color: #3F729B;
+}
+h2,p{
+    text-align: center;
+}
+
