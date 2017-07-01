@@ -33,12 +33,20 @@
 #skillsSection{
     padding-top:65px;
      height:400px;
-      background-color: 42A8C0;
+      background-color: white;
       color: #006064;
 }
 
+.skillCircles{
+    padding-left:120px;
+}
+.skillLabels{
+     background-color:#006064 ;
+      color: white;
+}
+
  #experienceSection {
-     padding-top:65px;
+    padding-top:65px;
     padding-left: 50px;
     height:900px;
     color: #fff; 
@@ -57,8 +65,8 @@
 /*
       max-height:2000px;
 */
-    padding-top:65px;
-    height:750px;
+    padding-top:50px;
+    height:550px;
       color: #fff; 
     background-color: #2d7788;
     align-content: center;
